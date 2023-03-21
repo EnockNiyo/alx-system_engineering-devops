@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 iacta | tail -l sed
+head -3 iacta | tail -1
